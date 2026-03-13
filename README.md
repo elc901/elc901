@@ -1,6 +1,6 @@
 <div align="center">
   
-# ELC-901
+# ⚡ ELC-901
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00F7A7&center=true&vCenter=true&width=435&lines=Python+Developer;Lua+Enthusiast;Web+Designer;Age+of+Resources+Creator)](https://git.io/typing-svg)
 
@@ -57,7 +57,7 @@
 
 ### [⚔️ Age of Resources](https://github.com/ELC-901/age-of-resources)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ELC-901&repo=age-of-resources&theme=lime&border_color=00F7A7)](https://github.com/ELC-901/age-of-resources)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ELC-901&repo=age-of-resources&theme=gruvbox&border_color=00F7A7)](https://github.com/ELC-901/age-of-resources)
 
 </div>
 
@@ -67,21 +67,21 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ELC-901&show_icons=true&theme=lime&count_private=true&include_all_commits=true&border_color=00F7A7)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ELC-901&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true&border_color=00F7A7)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELC-901&layout=compact&theme=lime&border_color=00F7A7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELC-901&layout=compact&theme=gruvbox&border_color=00F7A7)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ELC-901&theme=lime&border=00F7A7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ELC-901&theme=gruvbox&border=00F7A7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 **Достижения**
+## 🏆 **Трофеи**
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ELC-901&theme=lime&column=6&margin-w=15&margin-h=15&no-frame=false&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ELC-901&theme=gruvbox&column=6&margin-w=15&margin-h=15&no-frame=false&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -90,6 +90,8 @@
 ## 🐍 **Вклад в Open Source**
 
 <div align="center">
+  
+*Змейка поедает мои коммиты*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ELC-901/ELC-901/output/github-contribution-grid-snake-dark.svg">
@@ -105,6 +107,9 @@
   
 ### 📫 **Связаться со мной**
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ELC-901)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твой@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=ELC-901&color=00F7A7&style=for-the-badge)
 
 </div>
