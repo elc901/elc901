@@ -108,9 +108,6 @@
   
 ### 📫 **Связаться со мной**
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твой@gmail.com)
-
-![](https://komarev.com/ghpvc/?username=ELC-901&color=00F7A7&style=for-the-badge)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ELC901)
 
 </div>
