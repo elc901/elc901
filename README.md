@@ -90,8 +90,6 @@
 ## 🐍 **Вклад в Open Source**
 
 <div align="center">
-  
-*Змейка поедает мои коммиты*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ELC-901/ELC-901/output/github-contribution-grid-snake-dark.svg">
