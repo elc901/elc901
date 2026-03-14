@@ -87,7 +87,7 @@
 ---
 <div align="center">
   
-## 🐍 **Вклад в Open Source**
+## 🐍 **Змея ест мои коммиты**
 </div>
 <div align="center">
 
