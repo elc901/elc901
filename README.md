@@ -1,6 +1,6 @@
 <div align="center">
   
-# ELC-901
+# elc901
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00F7A7&center=true&vCenter=true&width=435&lines=Python+Developer;Lua+Enthusiast;Web+Designer;Age+of+Resources+Creator)](https://git.io/typing-svg)
 
@@ -60,8 +60,8 @@
 </div>
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ELC-901&repo=age-of-resources&theme=gruvbox&border_color=00F7A7)](https://github.com/ELC-901/age-of-resources)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ELC-901&repo=search-for-useful-articles&theme=gruvbox&border_color=00F7A7)](https://github.com/ELC-901/search-for-useful-articles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elc901&repo=age-of-resources&theme=gruvbox&border_color=00F7A7)](https://github.com/elc901/age-of-resources)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elc901&repo=search-for-useful-articles&theme=gruvbox&border_color=00F7A7)](https://github.com/elc901/search-for-useful-articles)
 
 </div>
 
@@ -72,11 +72,11 @@
 </div>
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ELC-901&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true&border_color=00F7A7)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elc901&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true&border_color=00F7A7)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELC-901&layout=compact&theme=gruvbox&border_color=00F7A7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elc901&layout=compact&theme=gruvbox&border_color=00F7A7)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ELC-901&theme=gruvbox&border=00F7A7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=elc901&theme=gruvbox&border=00F7A7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -92,9 +92,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ELC-901/ELC-901/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ELC-901/ELC-901/output/github-contribution-grid-snake.svg">
-  <img alt="🐍 Snake eating contributions" src="https://raw.githubusercontent.com/ELC-901/ELC-901/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elc901/elc901/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elc901/elc901/output/github-contribution-grid-snake.svg">
+  <img alt="🐍 Snake eating contributions" src="https://raw.githubusercontent.com/elc901/elc901/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -105,6 +105,6 @@
   
 ### 📫 **Связаться со мной**
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ELC901)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elc901)
 
 </div>
