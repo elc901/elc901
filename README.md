@@ -61,7 +61,7 @@
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elc901&repo=age-of-resources&theme=gruvbox&border_color=00F7A7)](https://github.com/elc901/age-of-resources)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elc901&repo=updater&theme=gruvbox&border_color=00F7A7)](https://github.com/elc901/search-for-useful-articles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elc901&repo=updater&theme=gruvbox&border_color=00F7A7)](https://github.com/elc901/updater)
 
 </div>
 
