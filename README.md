@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Saira&weight=600&size=24&duration=3000&pause=10&color=5b638f&center=true&vCenter=true&width=435&lines=profile.md)](https://git.io/typing-svg)
 
-<div align="right">
+<div align="center">
   
   <h3>I use</h3>
   
