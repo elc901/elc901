@@ -8,7 +8,10 @@
   
   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    
+
+
+
+  <p>когда нибудь я допишу этот мдшник</p>
 </div>
 
 
