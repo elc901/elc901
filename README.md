@@ -14,9 +14,6 @@
   <p>когда нибудь я допишу этот мдшник</p>
 </div>
 
-
-
-
 ![snake](https://raw.githubusercontent.com/elc901/elc901E/output/snake.svg)
 
 </div>
